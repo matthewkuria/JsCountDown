@@ -4,5 +4,11 @@
 
 body{
     margin: 0;
-    background-image: url(./wallpaper.jpeg);
+    background-image: url("./wallpaper.jpeg");
+    font-family: Inter;
+    color: white;
+}
+.body-title{
+    text-align: center;
+    color: white;
 }
