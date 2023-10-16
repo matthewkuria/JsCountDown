@@ -30,16 +30,16 @@ h1 {
     font-weight: 100;
     text-align: center;
     font-size: 30px;
+    align-self: center;
 }
 #clockdiv > div {
     padding: 10px;
-    border-radius: 3px;
-    
+    border-radius: 3px;    
     display: inline-block;
 }
 #clockdiv div > span {
     padding: 15px;
-    border-radius: 3px;
+    border-radius: 50%;
     background: #00816a;
     display: inline-block;
 }
