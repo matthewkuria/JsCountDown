@@ -30,7 +30,7 @@ h1 {
     font-weight: 100;
     text-align: center;
     font-size: 30px;
-    align-self: center;
+    margin-top: 20vh;
 }
 #clockdiv > div {
     padding: 10px;
