@@ -4,20 +4,17 @@
 
 body{
     margin: 0;
+    text-align: center;
     background-image: url("./wallpaper.jpeg");
     font-family: Inter;
-    color: white;
+    color: white;   
+    font-weight: 100;
 }
 .body-title{
     text-align: center;
     color: white;
 }
-body {
-    text-align: center;
-    background: #00ecb9;
-    font-family: sans-serif;
-    font-weight: 100;
-}
+
 
 /* Styling for heading */
 h1 {
@@ -37,7 +34,7 @@ h1 {
 #clockdiv > div {
     padding: 10px;
     border-radius: 3px;
-    background: #00bf96;
+    
     display: inline-block;
 }
 #clockdiv div > span {
